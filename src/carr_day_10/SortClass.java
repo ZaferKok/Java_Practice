@@ -20,6 +20,5 @@ public class SortClass {
 		char firstName[] = names[0].toCharArray();
 		Arrays.sort(firstName);
 		System.out.println(Arrays.toString(firstName));
-
 	}
 }
